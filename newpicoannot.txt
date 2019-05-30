@@ -1,0 +1,219 @@
+1	Is the monoclonal antibody Trastuzumab (Herceptin) of potential use in the treatment of prostate cancer?	5313b049e3eabad021000013
+1	What is the effect of ivabradine in heart failure after myocardial infarction?	532f062ad6d3ac6a34000027
+0	Is Alu hypomethylation associated with breast cancer?	54db1d580f63c58e6e000005
+0	Do mutations of AKT1 occur in meningiomas?	56bf365eef6e39474100000e
+0	Is irritable bowel syndrome more common in women with endometriosis?	54f08d4a94afd61504000016
+0	Does BNP increase after intensive exercise in athletes?	531d2aa5267d7dd053000003
+0	What is the association of estrogen replacement therapy and intracranial meningioma risk?	56bf3a79ef6e39474100000f
+0	Is peripheral neuroepithelioma related to Ewing sarcoma?	552fa6f5bc4f83e828000002
+1	What is known about the effect of acupuncture in smoking cessation ?	535d78137d100faa09000005
+0	Is pregnancy an additional risk during during H1N1 infection?	531a3fe3b166e2b806000038
+1	Is TENS machine effective in pain?	535d75ab7d100faa09000004
+1	In which breast cancer patients can palbociclib be used?	56d06e043975bb303a000011
+0	Is CD56 useful in Ewing sarcoma prognosis?	552fa32fbc4f83e828000001
+1	Is valproic acid effective for glioblastoma treatment?	56c1f029ef6e39474100004a
+0	Can Levoxyl (levothyroxine sodium) cause insomnia?	52b2ec744003448f55000001
+0	Is fatigue prevalent in patients receiving treatment for glioblastoma?	530e42e65937551c09000007
+0	What is the association between personality trait of neuroticism and risk for Alzheimer's disease?	550324d7e9bde6963400002f
+0	Is there a genetic component for happiness?	56cf413f3975bb303a000009
+1	Is amantadine effective for treatment of disorders conciousness?	530f7cdde3eabad021000001
+1	What is known about clinical efficacy of ceftriaxone for treatment of amyotrophic lateral sclerosis?	54fc97b86ad7dcbc12000002
+0	Does strenuous physical activity affect thyroid hormone metabolism?	51598b08d24251bc0500009f
+0	Which mutations of phopspholamban have been found in patients with cardiomyopathy?	5523f1a62c8b63434a000002
+0	Is there an increased risk for cancer in Dyskeratosis Congenita?	54ede5df94afd61504000007
+0	Is CD84 genetically associated with arthritis?	52ef7170c8da898910000012
+1	Is cytisine superior to nicotine replacement therapy for smoking cessation?	54d77f0e3706e8952800001b
+1	Are proteasome inhibitors good candidates for treatment of leukemia and solid tumors?	517179718ed59a060a00000e
+0	What is the prognostic role of thyroid hormone in patients with heart failure?	531b2fc3b166e2b80600003c
+1	Does administration of triiodothyronine improve outcome following coronary artery bypass grafting?	532673c4d6d3ac6a34000009
+0	Is long QT syndrome a cause for sudden cardiac death in athletes?	53009f6d2059c6d71c00007e
+1	Has vitamin D has been shown to reduce incidence of falls in older people in clinical trials?	530cf57efe2466f70c000006
+0	Has depression been shown to be a predictor of frailty?	530cf57efe2466f70c000001
+0	Is it safe to take isotretinoin during pregnancy?	51640b4a298dcd4e51000050
+0	How does exercise affect thyroid hormone receptors expression in the heart?	5159cc88d24251bc050000a4
+1	What is the effect of ivabradine in heart failure with preserved ejection fraction?	532f0511d6d3ac6a34000024
+0	Is low T3 syndrome a prognostic marker in patients with renal insufficiency?	5325de7d9b2d7acc7e000029
+0	Can life style changes reduce oxidative stress	52f88a972059c6d71c000033
+0	Does helicobacter pylori infection increase risk for ischemic stroke?	551c2cd26b348bb82c00000d
+1	Is apixaban effective for treatment of acute venous thromboembolism?	52fc94572059c6d71c000070
+1	Are reduced-nicotine cigarettes effective for smoking cessation?	56bc8d65ac7ad1001900001a
+1	Is ospemifene effective for treatment of dyspareunia?	5335b373d6d3ac6a34000050
+1	Is pregabalin effective for treatment of patients with restless leg syndrome?	54cf4a0ef693c3b16b00000c
+0	is intense physical activity associated with longevity ?	5167be1a298dcd4e5100005c
+1	Is Vortioxetine effective for treatment of depression?	53359338d6d3ac6a3400004f
+1	Is alemtuzumab effective for remission induction in patients diagnosed with T-cell prolymphocytic leukemia?	530cefaaad0bf1360c000001
+0	What is the association between moon cycle and rupture risk  of intracranial aneurysms?	530cefaaad0bf1360c000006
+0	Is there an association between TERT promoter mutation and survival of glioblastoma patients?	55032bbfe9bde69634000032
+1	Is bapineuzumab effective for treatment of patients with Alzheimer's disease?	530cefaaad0bf1360c000004
+0	What is known about the association between the use of selective serotonin reuptake inhibitors during pregnancy and risk for autism in offspring?	530cefaaad0bf1360c000009
+1	Is lambrolizumab effective for treatment of patients with melanoma ?	530cefaaad0bf1360c000008
+1	Is nintedanib effective for Idiopathic Pulmonary Fibrosis?	56c048e2ef6e39474100001d
+0	Is pesticide exposure associated with polyneuropathy?	530cefaaad0bf1360c000010
+0	Is there an association between borna virus and brain tumor?	530f685c329f5fcf1e000002
+0	Is there an association between bruxism and reflux?	530cefaaad0bf1360c00000f
+1	Is paroxetine effective for treatment of premenstrual dysphoric disorder?	514a59c2d24251bc0500005d
+1	What is known about thalidomide therapy and survival of glioblastoma patients?	54f1e887c409818c32000004
+0	Can botulism poisoning of a pregnant woman harm her fetus?	554763f0f35db75526000002
+1	Is there evidence that tomato juice lowers cholesterol levels?	56c1d85cef6e394741000034
+1	How effective is the dentritic cells treatment on cancer?	5321bc029b2d7acc7e00000c
+1	Is progesterone effective for treatment of patients with traumatic brain injury based on clinical trial data?	54cf48acf693c3b16b00000b
+0	Is there a role for the cylindromatosis tumor suppressor (CYLD) in lung cancer?	5545e926d355485447000002
+1	What are the clinical trial outcomes of metformin use in polycystic ovary disease?	515dd9a0298dcd4e5100001e
+0	What is the association between Generalized anxiety disorder and mortality risk?	54f4914bd0d681a040000001
+0	Are people with blood group O protected against severe Malaria?	551ae6c564b14b4618000001
+0	Can vitamin B1 deficiency cause encephalopathy?	572211540fd6f91b68000016
+0	Is Kanzaki disease associated with deficiency in alpha-N-acetylgalactosaminidase?	56f7c44109dd18d46b000013
+1	Is vemurafenib effective for hairy-cell leukemia?	56c02bc3ef6e394741000018
+0	Is there an association between TERT promoter mutation and survival of glioma patients?	56c095b7ef6e394741000025
+0	Are BBS mutations involved in syndromic Hirschsprung disease?	55032179e9bde6963400002e
+1	Have hESC been tested for the treatment of age-related macular degeneration?	56f553aa09dd18d46b000005
+0	Could DNA (cytosine-5-)-methyltransferases serve as tumour markers?	5162e9df298dcd4e5100004b
+1	Can zinc finger nucleases be used to combat disease?	56f15c5a2ac5ed1459000012
+0	What is known about depression in acoustic neuroma patients?	56bb54d3ac7ad10019000006
+0	Are epigenetic modifications implicated in cardiovascular development and disease?	54f7291630767eb92e000002
+1	Is the monoclonal antibody Trastuzumab (Herceptin) of potential use in the treatment of prostate cancer?	5313b049e3eabad021000013
+1	What is the effect of ivabradine in heart failure after myocardial infarction?	532f062ad6d3ac6a34000027
+0	Is Alu hypomethylation associated with breast cancer?	54db1d580f63c58e6e000005
+0	Do mutations of AKT1 occur in meningiomas?	56bf365eef6e39474100000e
+0	Is irritable bowel syndrome more common in women with endometriosis?	54f08d4a94afd61504000016
+0	Does BNP increase after intensive exercise in athletes?	531d2aa5267d7dd053000003
+0	What is the association of estrogen replacement therapy and intracranial meningioma risk?	56bf3a79ef6e39474100000f
+0	Is peripheral neuroepithelioma related to Ewing sarcoma?	552fa6f5bc4f83e828000002
+1	What is known about the effect of acupuncture in smoking cessation ?	535d78137d100faa09000005
+0	Is pregnancy an additional risk during during H1N1 infection?	531a3fe3b166e2b806000038
+1	Is TENS machine effective in pain?	535d75ab7d100faa09000004
+1	In which breast cancer patients can palbociclib be used?	56d06e043975bb303a000011
+0	Is CD56 useful in Ewing sarcoma prognosis?	552fa32fbc4f83e828000001
+1	Is valproic acid effective for glioblastoma treatment?	56c1f029ef6e39474100004a
+0	Can Levoxyl (levothyroxine sodium) cause insomnia?	52b2ec744003448f55000001
+0	Is fatigue prevalent in patients receiving treatment for glioblastoma?	530e42e65937551c09000007
+0	What is the association between personality trait of neuroticism and risk for Alzheimer's disease?	550324d7e9bde6963400002f
+0	Is there a genetic component for happiness?	56cf413f3975bb303a000009
+1	Is amantadine effective for treatment of disorders conciousness?	530f7cdde3eabad021000001
+1	What is known about clinical efficacy of ceftriaxone for treatment of amyotrophic lateral sclerosis?	54fc97b86ad7dcbc12000002
+0	Does strenuous physical activity affect thyroid hormone metabolism?	51598b08d24251bc0500009f
+0	Which mutations of phopspholamban have been found in patients with cardiomyopathy?	5523f1a62c8b63434a000002
+0	Is there an increased risk for cancer in Dyskeratosis Congenita?	54ede5df94afd61504000007
+0	Is CD84 genetically associated with arthritis?	52ef7170c8da898910000012
+1	Is cytisine superior to nicotine replacement therapy for smoking cessation?	54d77f0e3706e8952800001b
+1	Are proteasome inhibitors good candidates for treatment of leukemia and solid tumors?	517179718ed59a060a00000e
+0	What is the prognostic role of thyroid hormone in patients with heart failure?	531b2fc3b166e2b80600003c
+1	Does administration of triiodothyronine improve outcome following coronary artery bypass grafting?	532673c4d6d3ac6a34000009
+0	Is long QT syndrome a cause for sudden cardiac death in athletes?	53009f6d2059c6d71c00007e
+1	Has vitamin D has been shown to reduce incidence of falls in older people in clinical trials?	530cf57efe2466f70c000006
+0	Has depression been shown to be a predictor of frailty?	530cf57efe2466f70c000001
+0	Is it safe to take isotretinoin during pregnancy?	51640b4a298dcd4e51000050
+0	How does exercise affect thyroid hormone receptors expression in the heart?	5159cc88d24251bc050000a4
+1	What is the effect of ivabradine in heart failure with preserved ejection fraction?	532f0511d6d3ac6a34000024
+0	Is low T3 syndrome a prognostic marker in patients with renal insufficiency?	5325de7d9b2d7acc7e000029
+0	Can life style changes reduce oxidative stress	52f88a972059c6d71c000033
+0	Does helicobacter pylori infection increase risk for ischemic stroke?	551c2cd26b348bb82c00000d
+1	Is apixaban effective for treatment of acute venous thromboembolism?	52fc94572059c6d71c000070
+1	Are reduced-nicotine cigarettes effective for smoking cessation?	56bc8d65ac7ad1001900001a
+1	Is ospemifene effective for treatment of dyspareunia?	5335b373d6d3ac6a34000050
+1	Is pregabalin effective for treatment of patients with restless leg syndrome?	54cf4a0ef693c3b16b00000c
+0	is intense physical activity associated with longevity ?	5167be1a298dcd4e5100005c
+1	Is Vortioxetine effective for treatment of depression?	53359338d6d3ac6a3400004f
+1	Is alemtuzumab effective for remission induction in patients diagnosed with T-cell prolymphocytic leukemia?	530cefaaad0bf1360c000001
+0	What is the association between moon cycle and rupture risk  of intracranial aneurysms?	530cefaaad0bf1360c000006
+0	Is there an association between TERT promoter mutation and survival of glioblastoma patients?	55032bbfe9bde69634000032
+1	Is bapineuzumab effective for treatment of patients with Alzheimer's disease?	530cefaaad0bf1360c000004
+0	What is known about the association between the use of selective serotonin reuptake inhibitors during pregnancy and risk for autism in offspring?	530cefaaad0bf1360c000009
+1	Is lambrolizumab effective for treatment of patients with melanoma ?	530cefaaad0bf1360c000008
+1	Is nintedanib effective for Idiopathic Pulmonary Fibrosis?	56c048e2ef6e39474100001d
+0	Is pesticide exposure associated with polyneuropathy?	530cefaaad0bf1360c000010
+0	Is there an association between borna virus and brain tumor?	530f685c329f5fcf1e000002
+0	Is there an association between bruxism and reflux?	530cefaaad0bf1360c00000f
+1	Is paroxetine effective for treatment of premenstrual dysphoric disorder?	514a59c2d24251bc0500005d
+1	What is known about thalidomide therapy and survival of glioblastoma patients?	54f1e887c409818c32000004
+0	Can botulism poisoning of a pregnant woman harm her fetus?	554763f0f35db75526000002
+1	Is there evidence that tomato juice lowers cholesterol levels?	56c1d85cef6e394741000034
+1	How effective is the dentritic cells treatment on cancer?	5321bc029b2d7acc7e00000c
+1	Is progesterone effective for treatment of patients with traumatic brain injury based on clinical trial data?	54cf48acf693c3b16b00000b
+0	Is there a role for the cylindromatosis tumor suppressor (CYLD) in lung cancer?	5545e926d355485447000002
+1	What are the clinical trial outcomes of metformin use in polycystic ovary disease?	515dd9a0298dcd4e5100001e
+0	What is the association between Generalized anxiety disorder and mortality risk?	54f4914bd0d681a040000001
+0	Are people with blood group O protected against severe Malaria?	551ae6c564b14b4618000001
+0	Can vitamin B1 deficiency cause encephalopathy?	572211540fd6f91b68000016
+0	Is Kanzaki disease associated with deficiency in alpha-N-acetylgalactosaminidase?	56f7c44109dd18d46b000013
+1	Is vemurafenib effective for hairy-cell leukemia?	56c02bc3ef6e394741000018
+0	Is there an association between TERT promoter mutation and survival of glioma patients?	56c095b7ef6e394741000025
+0	Are BBS mutations involved in syndromic Hirschsprung disease?	55032179e9bde6963400002e
+1	Have hESC been tested for the treatment of age-related macular degeneration?	56f553aa09dd18d46b000005
+0	Could DNA (cytosine-5-)-methyltransferases serve as tumour markers?	5162e9df298dcd4e5100004b
+1	Can zinc finger nucleases be used to combat disease?	56f15c5a2ac5ed1459000012
+0	What is known about depression in acoustic neuroma patients?	56bb54d3ac7ad10019000006
+0	Are epigenetic modifications implicated in cardiovascular development and disease?	54f7291630767eb92e000002
+1	Is the monoclonal antibody Trastuzumab (Herceptin) of potential use in the treatment of prostate cancer?	5313b049e3eabad021000013
+1	What is the effect of ivabradine in heart failure after myocardial infarction?	532f062ad6d3ac6a34000027
+0	Is Alu hypomethylation associated with breast cancer?	54db1d580f63c58e6e000005
+0	Do mutations of AKT1 occur in meningiomas?	56bf365eef6e39474100000e
+0	Is irritable bowel syndrome more common in women with endometriosis?	54f08d4a94afd61504000016
+0	Does BNP increase after intensive exercise in athletes?	531d2aa5267d7dd053000003
+0	What is the association of estrogen replacement therapy and intracranial meningioma risk?	56bf3a79ef6e39474100000f
+0	Is peripheral neuroepithelioma related to Ewing sarcoma?	552fa6f5bc4f83e828000002
+1	What is known about the effect of acupuncture in smoking cessation ?	535d78137d100faa09000005
+0	Is pregnancy an additional risk during during H1N1 infection?	531a3fe3b166e2b806000038
+1	Is TENS machine effective in pain?	535d75ab7d100faa09000004
+1	In which breast cancer patients can palbociclib be used?	56d06e043975bb303a000011
+0	Is CD56 useful in Ewing sarcoma prognosis?	552fa32fbc4f83e828000001
+1	Is valproic acid effective for glioblastoma treatment?	56c1f029ef6e39474100004a
+0	Can Levoxyl (levothyroxine sodium) cause insomnia?	52b2ec744003448f55000001
+0	Is fatigue prevalent in patients receiving treatment for glioblastoma?	530e42e65937551c09000007
+0	What is the association between personality trait of neuroticism and risk for Alzheimer's disease?	550324d7e9bde6963400002f
+0	Is there a genetic component for happiness?	56cf413f3975bb303a000009
+1	Is amantadine effective for treatment of disorders conciousness?	530f7cdde3eabad021000001
+1	What is known about clinical efficacy of ceftriaxone for treatment of amyotrophic lateral sclerosis?	54fc97b86ad7dcbc12000002
+0	Does strenuous physical activity affect thyroid hormone metabolism?	51598b08d24251bc0500009f
+0	Which mutations of phopspholamban have been found in patients with cardiomyopathy?	5523f1a62c8b63434a000002
+0	Is there an increased risk for cancer in Dyskeratosis Congenita?	54ede5df94afd61504000007
+0	Is CD84 genetically associated with arthritis?	52ef7170c8da898910000012
+1	Is cytisine superior to nicotine replacement therapy for smoking cessation?	54d77f0e3706e8952800001b
+1	Are proteasome inhibitors good candidates for treatment of leukemia and solid tumors?	517179718ed59a060a00000e
+0	What is the prognostic role of thyroid hormone in patients with heart failure?	531b2fc3b166e2b80600003c
+1	Does administration of triiodothyronine improve outcome following coronary artery bypass grafting?	532673c4d6d3ac6a34000009
+0	Is long QT syndrome a cause for sudden cardiac death in athletes?	53009f6d2059c6d71c00007e
+1	Has vitamin D has been shown to reduce incidence of falls in older people in clinical trials?	530cf57efe2466f70c000006
+0	Has depression been shown to be a predictor of frailty?	530cf57efe2466f70c000001
+0	Is it safe to take isotretinoin during pregnancy?	51640b4a298dcd4e51000050
+0	How does exercise affect thyroid hormone receptors expression in the heart?	5159cc88d24251bc050000a4
+1	What is the effect of ivabradine in heart failure with preserved ejection fraction?	532f0511d6d3ac6a34000024
+0	Is low T3 syndrome a prognostic marker in patients with renal insufficiency?	5325de7d9b2d7acc7e000029
+0	Can life style changes reduce oxidative stress	52f88a972059c6d71c000033
+0	Does helicobacter pylori infection increase risk for ischemic stroke?	551c2cd26b348bb82c00000d
+1	Is apixaban effective for treatment of acute venous thromboembolism?	52fc94572059c6d71c000070
+1	Are reduced-nicotine cigarettes effective for smoking cessation?	56bc8d65ac7ad1001900001a
+1	Is ospemifene effective for treatment of dyspareunia?	5335b373d6d3ac6a34000050
+1	Is pregabalin effective for treatment of patients with restless leg syndrome?	54cf4a0ef693c3b16b00000c
+0	is intense physical activity associated with longevity ?	5167be1a298dcd4e5100005c
+1	Is Vortioxetine effective for treatment of depression?	53359338d6d3ac6a3400004f
+1	Is alemtuzumab effective for remission induction in patients diagnosed with T-cell prolymphocytic leukemia?	530cefaaad0bf1360c000001
+0	What is the association between moon cycle and rupture risk  of intracranial aneurysms?	530cefaaad0bf1360c000006
+0	Is there an association between TERT promoter mutation and survival of glioblastoma patients?	55032bbfe9bde69634000032
+1	Is bapineuzumab effective for treatment of patients with Alzheimer's disease?	530cefaaad0bf1360c000004
+0	What is known about the association between the use of selective serotonin reuptake inhibitors during pregnancy and risk for autism in offspring?	530cefaaad0bf1360c000009
+1	Is lambrolizumab effective for treatment of patients with melanoma ?	530cefaaad0bf1360c000008
+1	Is nintedanib effective for Idiopathic Pulmonary Fibrosis?	56c048e2ef6e39474100001d
+0	Is pesticide exposure associated with polyneuropathy?	530cefaaad0bf1360c000010
+0	Is there an association between borna virus and brain tumor?	530f685c329f5fcf1e000002
+0	Is there an association between bruxism and reflux?	530cefaaad0bf1360c00000f
+1	Is paroxetine effective for treatment of premenstrual dysphoric disorder?	514a59c2d24251bc0500005d
+1	What is known about thalidomide therapy and survival of glioblastoma patients?	54f1e887c409818c32000004
+0	Can botulism poisoning of a pregnant woman harm her fetus?	554763f0f35db75526000002
+1	Is there evidence that tomato juice lowers cholesterol levels?	56c1d85cef6e394741000034
+1	How effective is the dentritic cells treatment on cancer?	5321bc029b2d7acc7e00000c
+1	Is progesterone effective for treatment of patients with traumatic brain injury based on clinical trial data?	54cf48acf693c3b16b00000b
+0	Is there a role for the cylindromatosis tumor suppressor (CYLD) in lung cancer?	5545e926d355485447000002
+1	What are the clinical trial outcomes of metformin use in polycystic ovary disease?	515dd9a0298dcd4e5100001e
+0	What is the association between Generalized anxiety disorder and mortality risk?	54f4914bd0d681a040000001
+0	Are people with blood group O protected against severe Malaria?	551ae6c564b14b4618000001
+0	Can vitamin B1 deficiency cause encephalopathy?	572211540fd6f91b68000016
+0	Is Kanzaki disease associated with deficiency in alpha-N-acetylgalactosaminidase?	56f7c44109dd18d46b000013
+1	Is vemurafenib effective for hairy-cell leukemia?	56c02bc3ef6e394741000018
+0	Is there an association between TERT promoter mutation and survival of glioma patients?	56c095b7ef6e394741000025
+0	Are BBS mutations involved in syndromic Hirschsprung disease?	55032179e9bde6963400002e
+1	Have hESC been tested for the treatment of age-related macular degeneration?	56f553aa09dd18d46b000005
+0	Could DNA (cytosine-5-)-methyltransferases serve as tumour markers?	5162e9df298dcd4e5100004b
+1	Can zinc finger nucleases be used to combat disease?	56f15c5a2ac5ed1459000012
+0	What is known about depression in acoustic neuroma patients?	56bb54d3ac7ad10019000006
+0	Are epigenetic modifications implicated in cardiovascular development and disease?	54f7291630767eb92e000002
