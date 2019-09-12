@@ -4,9 +4,11 @@ question_classifier_ML.py: the core program of the MSc thesis that can classify 
 
 jsonparser.py: parses json files with bioasq question sets, used for initial question pooling
 
-foreground_dataset_creator.py: creates labeled dataset
+training_7b.json: accumulated questions of BioASQ challenge
 
-foreground_background_pandata.txt: dataset file that is fed to naivebayes.py for model creation
+cohens_kappa.py: produces kappa index for given classifications
+
+pico annotator.py: used for annotation of questions with PICO & TDPH elements
 
 
 
