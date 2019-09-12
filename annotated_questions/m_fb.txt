@@ -1,0 +1,640 @@
+1	Is pregabalin effective for treatment of patients with restless leg syndrome?
+
+0	Which gene is involved in the development of Barth syndrome?
+
+0	Which disease is characterized by congenital absence of intrinsic ganglion cells of the gastrointestinal tract?
+
+0	Is zyxin a focal adhesion protein?
+
+0	Which amino acid residue appears mutated in most of the cases reported with  cadasil syndrome?
+
+1	what is the role of IGF-1 in cardiac regeneration after myocardial infarction?
+
+0	Which gene is most commonly associated with severe congenital and cyclic neutropenia?
+
+0	Is invasion and metastasis one of the hallmarks of cancer?
+
+1	What is the association of spermidine with α-synuclein neurotoxicity?
+
+0	For the constructions of which organs has 3D printing been tested?
+
+1	Are BBS mutations involved in syndromic Hirschsprung disease?
+
+0	What is the treatment of acute pericarditis?
+
+1	What is the association of estrogen replacement therapy and intracranial meningioma risk?
+
+0	Is MammaPrint cleared by the United States Food and Drug Administration?
+
+0	How are induced pluripotent stem cells used in the study and treatment of cardiovascular diseases?
+
+0	Which deiodinase is known to be present in liver?
+
+0	"Which phenomenon is known as the ""calcium paradox"" in the isolated perfused heart?"
+
+1	Are epigenetic modifications implicated in cardiovascular development and disease?
+
+1	Which is the prognostic meaning of delayed enhancement documented in patients hypertrophic cardiomyopathy?
+
+0	Which interleukins are inhibited by Dupilumab?
+
+0	Which cell types are known to be driving Rheumatoid Arthritis?
+
+0	Which antibodies cause Riedel thyroiditis?
+
+1	What is the association between Generalized anxiety disorder and mortality risk?
+
+0	How many genes are in the gene signature screened by MammaPrint?
+
+1	Is ospemifene effective for treatment of dyspareunia?
+
+0	Which gene mutations are responsible for isolated Non-compaction cardiomyopathy?
+
+0	What are the indications for treatment with anti-hepcidin?
+
+0	Which pathological condition of the heart is known as hypertrophic cardiomyopathy (HCM)?
+
+0	What is the mode of inheritance of Wilson's disease?
+
+1	Can valproic acid act as an activator of AMPK?
+
+1	What is the number of protein coding genes in the human genome?
+
+0	How many clinical trials for off-label drugs in neonates are cited in the literature.
+
+1	What is the effect of TRH on myocardial contractility?
+
+1	What is the role of RhoA in bladder cancer?
+
+0	List receptors of the drug Cilengitide
+
+0	Has vitamin D has been shown to reduce incidence of falls in older people in clinical trials?
+
+0	Is Rheumatoid Arthritis more common in men or women?
+
+1	Is peripheral neuroepithelioma related to Ewing sarcoma?
+
+0	Are there any specific antidotes for rivaroxaban?
+
+1	Is the monoclonal antibody Trastuzumab (Herceptin) of potential use in the treatment of prostate cancer?
+
+0	What is known about the value of mindfulness interventions in prostate cancer patients?
+
+1	Is low T3 syndrome a prognostic marker in patients with renal insufficiency?
+
+0	Abnormalities in which chromosomes were linked to the Moyamoya disease?
+
+0	What was the aim of the COSS (Carotid Occlusion Surgery Study) clinical trial?
+
+0	What are 'vildagliptin', 'sitagliptin', 'saxagliptin', 'alogliptin', 'linagliptin', and 'dutogliptin'?
+
+0	Are there web based self management strategies for chronic pain ?
+
+0	What is considered a reliable technique for the definitive cytogenetic diagnosis of Fanconi anemia homozygosity?
+
+1	Are transcribed ultraconserved regions involved in cancer?
+
+0	Which acetylcholinesterase inhibitors are used for treatment of myasthenia gravis?
+
+0	Which currently known mitochondrial diseases have been attributed to POLG mutations?
+
+0	List sodium glucose co-transporter-2 (SGLT2) inhibitors that have been FDA approved for type 2 diabetes mellitus treatment.
+
+0	Which technique is used for detection of EWS/FLI1 fusion transcripts?
+
+0	Which disease is included as an additional feature in the Goldberg-Shprintzen syndrome?
+
+0	What is the enzymatic activity of the breast cancer associated gene BRCA1?
+
+1	Can Levoxyl (levothyroxine sodium) cause insomnia?
+
+0	Is Mycobacterium avium less susceptible to antibiotics than Mycobacterium tuberculosis?
+
+0	What is the treatment of acute myocarditis?
+
+1	What is the prognostic role of thyroid hormone in patients with heart failure?
+
+0	What is the genetic basis of Rubinstein-Taybi syndrome?
+
+0	What is the incidence of Edwards syndrom in the european population?
+
+0	Which biomarker is widely used in the diagnosis of Ewing sarcoma?
+
+0	Which hormone abnormalities are common in Williams syndrome ?
+
+0	Inhibition of which transporter is the mechanism of action of drug Canagliflozin?
+
+0	What is the mechanism of action of Nalmefene?
+
+0	Do patients with Pendred syndrome present congenital deafness?
+
+0	Which drugs are included in the FEC-75 regimen?
+
+0	List causative genes for autosomal recessive forms of monogenic Parkinson's disease
+
+1	Can vitamin B1 deficiency cause encephalopathy?
+
+0	What distinguishes lantibiotics from antibiotics?
+
+0	What is being measured with an accelerometer in back pain patients
+
+0	What disease in Loxapine prominently used for?
+
+0	Which medical diagnostic tests are used to test kidney function?
+
+0	List human diseases involving genomic imprinting.
+
+0	Which are the characteristics of  Andersen syndrome?
+
+0	Which are the cardiac manifestations of Marfan syndrome?
+
+1	What is the effect of resveratrol on mTOR activity?
+
+0	List symptoms of Meigs' Syndrome.
+
+0	Which syndrome is NHE6 associated with?
+
+0	Is amiodarone a class I anti-arrhythmic drug?
+
+0	Is Kanzaki disease associated with deficiency in alpha-N-acetylgalactosaminidase?
+
+0	Which are the main causes of fetal echogenic bowel?
+
+0	What is the percentage of responders to tetrabenazine treatment for dystonia in children?
+
+1	Is TREM2 associated with Alzheimer's disease in humans?
+
+0	Is there evidence that tomato juice lowers cholesterol levels?
+
+0	Which molecule is targeted by a monoclonal antibody Mepolizumab?
+
+1	What is the effect of ivabradine in heart failure with preserved ejection fraction?
+
+0	When was empagliflozin FDA approved?
+
+0	Which eye condition is managed by the athens protocol?
+
+1	Does strenuous physical activity affect thyroid hormone metabolism?
+
+1	Is amantadine effective for treatment of disorders conciousness?
+
+0	What is the indication for prophylactic use of antibiotics in COPD?
+
+1	How does trimetazidine affect intracellular kinase signaling in the heart?
+
+0	Which are the drugs utilized for the burning mouth syndrome?
+
+0	Which is the most known bacterium responsible for botulism (sausage-poisoning)?
+
+0	Which disease of the central nervous system is characterized by the presence of Lewy bodies?
+
+1	What is the influence of patent expiry on  ACE inhibitor prescribing.
+
+0	Synostosis of which cranial structures are characteristic to the Mercedes Benz syndrome?
+
+1	Is there an association between TERT promoter mutation and survival of glioblastoma patients?
+
+0	Is fatigue prevalent in patients receiving treatment for glioblastoma?
+
+0	What is the clinical value of MammaPrint?
+
+1	What is the association between personality trait of neuroticism and risk for Alzheimer's disease?
+
+0	List two chemotherapeutic agents that are used for treatment of Subependymal Giant Cell Astrocytoma
+
+0	Have mutations in the Polycomb group been found in human diseases?
+
+0	Which genes have been associated with Cerebral Cavernous Malformation?
+
+0	Are there studies representing the involvement of Notch mutations in neurodegenerative diseases such as Down syndrome, Pick's and Prion's disease, and cadasil syndrome?
+
+0	List medication interfering with purine metabolism that are used for treatment of T-cell prolymphocytic leukemia?
+
+0	Does melanoma  occur in people of African origin ?
+
+0	What tyrosine kinase, involved in a Philadelphia- chromosome positive chronic myelogenous leukemia, is the target of Imatinib (Gleevec)?
+
+1	Is vemurafenib effective for hairy-cell leukemia?
+
+0	Describe the mechanism of action of the LINX system for treatment of gastroesophageal reflux disease.
+
+0	Which enzyme deficiency can cause GM1 gangliosidoses?
+
+0	Mutations in which gene and which protein are associated with Netherton syndrome?
+
+0	Is Alpers disease inherited in an autosomal recessive mode?
+
+0	List functions that are evaluated with the Full Outline of Unresponsiveness score?
+
+0	Can botulism poisoning of a pregnant woman harm her fetus?
+
+0	Against which protein is the antibody used for immonostaining of Lewy bodies raised?
+
+0	List symptoms of the IFAP syndrome.
+
+0	Is irritable bowel syndrome more common in women with endometriosis?
+
+0	Which gene is involved in Giant Axonal Neuropathy?
+
+0	Which brain structures have been investigated as potential targets for deep brain stimulation of patients suffering from major depression?
+
+1	Can sorafenib activate AMPK?
+
+1	Is bapineuzumab effective for treatment of patients with Alzheimer's disease?
+
+0	Which fusion protein is involved in the development of Ewing sarcoma?
+
+0	Mutation of which gene is implicated in the familial isolated pituitary adenoma?
+
+1	What is the role of necroptosis in cancer therapy?
+
+1	Does TGF-beta play a role in cardiac regeneration after myocardial infarction?
+
+0	Which translocation is the hallmark of Ewing sarcoma?
+
+1	Does helicobacter pylori infection increase risk for ischemic stroke?
+
+0	Which are the supplemental antioxidant in athletes?
+
+1	How does ranolazine affect calcium handling in the heart
+
+0	Which is the gene mutated in type 1 neurofibromatosis?
+
+1	What is the role of invadopodia in EMT?
+
+1	Are reduced-nicotine cigarettes effective for smoking cessation?
+
+1	Which is the relation between sweating and anaerobic threshold?
+
+0	List Genes associated with adolescent idiopathic scoliosis
+
+0	Is RET the major gene involved in Hirschsprung disease?
+
+0	What is the rate of survival after commotio cordis?
+
+1	What is the association between moon cycle and rupture risk  of intracranial aneurysms?
+
+0	What are the effects of BMAL1 deficiency?
+
+1	Is endostatin a proangiogenic factor?
+
+0	Which syndromes are associated with mutations in the EZH2 gene?
+
+0	Have hESC been tested for the treatment of age-related macular degeneration?
+
+1	What is the role of AMPK in diabetic cardiomyopathy?
+
+1	Is there an association between borna virus and brain tumor?
+
+0	Is DITPA a thyroid hormone analog utilized in experimental and clinical studies
+
+0	What is the systemic nickel allergy syndrome?
+
+0	Mutation of which gene is implicated in the Brain-lung-thyroid syndrome?
+
+0	What is known about prostate cancer screening in the UK
+
+1	Could DNA (cytosine-5-)-methyltransferases serve as tumour markers?
+
+1	Is pregnancy an additional risk during during H1N1 infection?
+
+0	List side effects of SGLT2 inhibitors?
+
+1	Which deiodinase polymorphisms are implicated in arterial hypertension?
+
+1	Why does the prodrug amifostine (ethyol) create hypoxia?
+
+0	Which are the classes of anti-arrhythmic drugs according to Vaughan-Williams classification?
+
+0	Which gene is required for the efficient function of clopidogrel?
+
+1	Is there a genetic component for happiness?
+
+1	Does BNP increase after intensive exercise in athletes?
+
+0	"What memory problems are reported in the "" Gulf war syndrome""?"
+
+1	Are stress granules involved in the pathogenesis of Amyotrophic Lateral Sclerosis?
+
+1	In which breast cancer patients can palbociclib be used?
+
+1	Is there an association between bruxism and reflux?
+
+0	List genes that have been found mutated in CMT1A (Charcot-Marie-Tooth disease type 1 A).
+
+0	What is the suggested therapy for Mycobacterium avium infection?
+
+0	Is long QT syndrome a cause for sudden cardiac death in athletes?
+
+0	Are there drugs for Tick-borne Encephalitis?
+
+0	Which is the most important prognosis sub-classification in Chronic Lymphocytic Leukemia?
+
+0	What is the indication of Daonil (Glibenclamide)?
+
+0	Which is the mechanism used for synthesis of a highly functional N-truncated dystrophin isoform that attenuates dystrophinopathy?
+
+1	How effective is the dentritic cells treatment on cancer?
+
+0	Which are the major types of the motor speech disorder dysarthria?
+
+0	What are the symptoms of abacavir hypersensitivity?
+
+0	Which virus is Cidofovir (Vistide) indicated for?
+
+0	How many periods of regulatory innovation led to the evolution of vertebrates?
+
+0	What is Prudent Diet?
+
+0	The secreted frizzled-related protein 3 (sFPR3) is altered in human cancers.Are its level found to increase or to decrease?
+
+0	What is the gene mutated in the Gaucher disease?
+
+0	Orteronel was developed for treatment of which cancer?
+
+1	Which genes are involved in patient response to warfarin?
+
+1	What is the role of SERCA in diabetic cardiomyopathy?
+
+1	Does physical activity influence gut hormones?
+
+0	What is hyperosmia
+
+1	Are proteasome inhibitors good candidates for treatment of leukemia and solid tumors?
+
+0	What are the major clinical Villefranche criteria for classic Ehlers-Danlos syndrome?
+
+0	What is the mechanism of action of solanezumab?
+
+1	What is the role of per genes in circadian rhythm control?
+
+0	What is the Barr body?
+
+0	How is oprozomib administered?
+
+0	How early during pregnancy does non-invasive cffDNA testing allow sex determination of the fetus?
+
+0	How is spastic diplegia diagnosed?
+
+1	Which genes are affected in ROMANO-WARD syndrome?
+
+1	Does metformin interfere thyroxine absorption?
+
+0	Which are the common symptoms of Cushing's syndrome?
+
+0	Which receptors are bound by Tasimelteon?
+
+0	What is the treatment of subacute thyroiditis?
+
+0	What is the target of the drug Olaparib?
+
+1	How does exercise affect thyroid hormone receptors expression in the heart?
+
+0	Name synonym of Acrokeratosis paraneoplastica.
+
+1	Is valproic acid effective for glioblastoma treatment?
+
+1	Which diseases is microRNA 132 (miR-132) implicated in?
+
+0	What enzyme is inhibied by Opicapone?
+
+1	Which is the genetic basis of Spinal Muscular Atrophy (SMA)?
+
+0	Which genes are more frequently affected by somatic mutations in Chronic Lymphocytic Leukemia
+
+0	For the treatment of which conditions can atypical neuroleptic drugs be used?
+
+0	Is Calcium homeostasis important in cardiac physiology and pathophysiology?
+
+1	What clinical use aptamers may have?
+
+0	What is the main characteristic of Amyotrophic Lateral Sclerosis?
+
+1	What is the function of the mammalian gene Irg1?
+
+0	What is the genetic basis of tuberous sclerosis?
+
+0	What molecule is targeted by brodalumab?
+
+1	Are thyroid hormone receptor alpha1 mutations implicated in thyroid hormone resistance syndrome?
+
+1	Is glycyl-tRNA synthetase gene involved in the development of Charcot-Marie-Tooth disease?
+
+0	Which is the genetic defect causing Neurofibromatosis type 1?
+
+0	List chromosomes that have been linked to Arnold Chiari syndrome in the literature.
+
+0	Has depression been shown to be a predictor of frailty?
+
+0	What are cancer driver genes?
+
+0	What is known about depression in acoustic neuroma patients?
+
+0	Mutation of which gene is associated with Achondroplasia?
+
+0	Can venlafaxine block NET and SERT?
+
+0	List the off-label use of SSRIs
+
+1	Is CD56 useful in Ewing sarcoma prognosis?
+
+0	Which JAK (Janus kinase) inhibitor is approved for treatment of rheumatoid arthritis?
+
+0	Which antibiotics target peptidoglycan biosynthesis?
+
+0	Which is the major symptom of the Doose syndrome?
+
+0	Is progesterone effective for treatment of patients with traumatic brain injury based on clinical trial data?
+
+1	Is there a role for the cylindromatosis tumor suppressor (CYLD) in lung cancer?
+
+1	Is it safe to take isotretinoin during pregnancy?
+
+1	Is lambrolizumab effective for treatment of patients with melanoma ?
+
+1	Is apixaban effective for treatment of acute venous thromboembolism?
+
+0	Which deficiency is the cause of restless leg syndrome?
+
+0	Have mutations in the GARS gene been identified to cause Charcot-Marie-Tooth Disease Type 2D (CMT2D)?
+
+0	Is Weaver syndrome similar to Sotos?
+
+0	What is the mode of inheritance of nemaline myopathy?
+
+1	Is Alu hypomethylation associated with breast cancer?
+
+0	What is known about clinical efficacy of ceftriaxone for treatment of amyotrophic lateral sclerosis?
+
+0	Is Hirschsprung disease a mendelian or a multifactorial disorder?
+
+0	Which is the most common cause of sudden cardiac death in young athletes?
+
+1	Is microRNA(miRNA) 29 involved in post-ischemic cardiac remodeling?
+
+1	What is the mode of action of everolimus?
+
+0	What are the names of anti-CD52 monoclonal antibody that is used for treatment of multiple sclerosis patients?
+
+1	Which transcription factors are involved in E-cadherin repression during EMT?
+
+0	Does burning mouth syndrome preferentially affect post-mepopausal women?
+
+1	Is cytisine superior to nicotine replacement therapy for smoking cessation?
+
+0	What is the treatment of neuropathic pain in children?
+
+0	What is the treatment of amiodarone-induced thyrotoxicosis?
+
+1	Can life style changes reduce oxidative stress
+
+0	Is it possible to detect survivin protein expression in normal human adult tissues?
+
+0	List Hemolytic Uremic Syndrome Triad.
+
+0	which mutations of phospholamban gene have been found to cause hypertrophic cardiomyopathy?
+
+1	Can protein coding exons originate from ALU sequences?
+
+0	GV1001 vaccine targets which enzyme?
+
+0	What constitutes an increased risk for individuals with Fanconi anemia?
+
+0	Which human genes are more commonly related to craniosynostosis?
+
+0	Which is the primary distinction between the Reverse Warburg effect and the conventional Warburg effect?
+
+1	Which pathological conditions are caused by mutations in the CYLD gene?
+
+0	What medication were compared in the ROCKET AF Trial?
+
+0	List the endoscopic diagnoses that have been reported in children with autism
+
+0	Which viruses are best known to cause myocarditis?
+
+0	List symptoms of 4H leukodystrophy.
+
+1	Are people with blood group O protected against severe Malaria?
+
+1	How could U1 small nuclear RNA be used in therapeutics?
+
+1	Is paroxetine effective for treatment of premenstrual dysphoric disorder?
+
+0	List three major features of the CCFDN syndrome.
+
+0	Which syndrome is associated with mutant DVL1?
+
+0	Which protein is causing Netherton syndrome?
+
+0	For which type of diabetes can empagliflozin be used?
+
+0	List symptoms of congenital toxoplasmosis triad.
+
+0	Are there any urine biomarkers for chronic kidney disease?
+
+0	What is the disease in which patients are sensitive to DNA crosslinking agents, presenting with a high frequency of chromosomal aberrations?
+
+1	Is PTEN involved in follicular thyroid carcinoma?
+
+1	Is desmin an intermediate filament protein involved in Dilated Cardiomyopathy (DCM)?
+
+1	Is exome sequencing efficient for the detection of germline mutations?
+
+1	Is nintedanib effective for Idiopathic Pulmonary Fibrosis?
+
+1	Is the tricarboxylic acid (TCA) cycle affected in inflammation?
+
+1	How many genes are imprinted in the human genome?
+
+0	Is cadasil syndrome a hereditary disease?
+
+0	Which mutations of phopspholamban have been found in patients with cardiomyopathy?
+
+0	Which enzyme is targeted by the drug Imetelstat?
+
+1	Does MicroRNA-21 (miR-21) contribute to cardiovascular disease?
+
+0	What are the clinical trial outcomes of metformin use in polycystic ovary disease?
+
+0	What molecule is targeted by suvorexant?
+
+1	Is CD84 genetically associated with arthritis?
+
+0	At which kind of individuals is pharmacological treatment of subclinical hypothyroidism effective in reducing cardiovascular events?
+
+0	Does d-tubocurarine (d-TC) induces irreversible inhibition of nicotinic acetylcholine receptor (nAChR) at the neuromuscular junction?
+
+1	Is there an association between TERT promoter mutation and survival of glioma patients?
+
+1	Is Vortioxetine effective for treatment of depression?
+
+1	Is TENS machine effective in pain?
+
+0	What is Tarlov Cyst?
+
+0	List two common features of Tay syndrome.
+
+1	Do mutations of AKT1 occur in meningiomas?
+
+0	"How is connected ""isolated Non-compaction cardiomyopathy"" with dilated cardiomyopathy?"
+
+0	Which deiodinases are present in skeletal  muscle?
+
+1	Which mutations of alpha-myosin heavy chain gene are implicated in hypertrophic cardiomyopathy?
+
+1	Does cortical spreading depression appear in ischemic penumbra following ischemic stroke?
+
+1	is intense physical activity associated with longevity ?
+
+0	Does thyroid hormone regulate calcium transient in the myocardium?
+
+0	Which type of lung cancer is the most strongly associated with Lambert-Eaton syndrome?
+
+0	Which signaling pathways have been associated with medulloblastoma formation and growth?
+
+0	List available databases containing information about conserved noncoding elements.
+
+1	What is the effect of ivabradine in heart failure after myocardial infarction?
+
+0	What is known about prostate cancer screening in the UK ?
+
+1	Is pesticide exposure associated with polyneuropathy?
+
+0	What are the outcomes of Renal sympathetic denervation?
+
+0	What is the generic name of Gliolan?
+
+0	Have Quantitative Trait Loci affecting splicing (splicing QTLs) been linked to disease?
+
+0	What is the characteristic feature of the Dyke-Davidoff-Masson syndrome.
+
+0	Which signalling pathway is involved in Tuberous Sclerosis?
+
+1	Can zinc finger nucleases be used to combat disease?
+
+0	Is there an increased risk for cancer in Dyskeratosis Congenita?
+
+0	Which neuroendocrine tumors are associated with specific tumor syndromes?
+
+0	Which disease can be treated with Delamanid?
+
+0	What is known about thalidomide therapy and survival of glioblastoma patients?
+
+0	What is known about the effect of acupuncture in smoking cessation ?
+
+1	Does administration of triiodothyronine improve outcome following coronary artery bypass grafting?
+
+1	Is alemtuzumab effective for remission induction in patients diagnosed with T-cell prolymphocytic leukemia?
+
+0	Which drugs are utilized to treat amiodarone-induced thyroitoxicosis?
+
+0	Which treatment leads to an increase in neutrophil counts in severe congenital neutropenia?
+
+0	How is OCT3 associated with serotonin?
+
+0	What is the mode of inheritance of Facioscapulohumeral muscular dystrophy (FSHD)?
+
+1	What is known about the association between the use of selective serotonin reuptake inhibitors during pregnancy and risk for autism in offspring?
+
+1	What are the effects of ILK ablation?
+

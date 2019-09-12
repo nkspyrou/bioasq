@@ -1,0 +1,320 @@
+1	Is the monoclonal antibody Trastuzumab (Herceptin) of potential use in the treatment of prostate cancer?	5313b049e3eabad021000013
+1	What is the effect of ivabradine in heart failure after myocardial infarction?	532f062ad6d3ac6a34000027
+1	Is Alu hypomethylation associated with breast cancer?	54db1d580f63c58e6e000005
+1	Do mutations of AKT1 occur in meningiomas?	56bf365eef6e39474100000e
+1	Is irritable bowel syndrome more common in women with endometriosis?	54f08d4a94afd61504000016
+1	Does BNP increase after intensive exercise in athletes?	531d2aa5267d7dd053000003
+1	What is the association of estrogen replacement therapy and intracranial meningioma risk?	56bf3a79ef6e39474100000f
+1	Is peripheral neuroepithelioma related to Ewing sarcoma?	552fa6f5bc4f83e828000002
+1	What is known about the effect of acupuncture in smoking cessation ?	535d78137d100faa09000005
+1	Is pregnancy an additional risk during during H1N1 infection?	531a3fe3b166e2b806000038
+1	Is TENS machine effective in pain?	535d75ab7d100faa09000004
+1	In which breast cancer patients can palbociclib be used?	56d06e043975bb303a000011
+1	Is CD56 useful in Ewing sarcoma prognosis?	552fa32fbc4f83e828000001
+1	Is valproic acid effective for glioblastoma treatment?	56c1f029ef6e39474100004a
+1	Can Levoxyl (levothyroxine sodium) cause insomnia?	52b2ec744003448f55000001
+1	Is fatigue prevalent in patients receiving treatment for glioblastoma?	530e42e65937551c09000007
+1	What is the association between personality trait of neuroticism and risk for Alzheimer's disease?	550324d7e9bde6963400002f
+1	Is there a genetic component for happiness?	56cf413f3975bb303a000009
+1	Is amantadine effective for treatment of disorders conciousness?	530f7cdde3eabad021000001
+1	What is known about clinical efficacy of ceftriaxone for treatment of amyotrophic lateral sclerosis?	54fc97b86ad7dcbc12000002
+1	Does strenuous physical activity affect thyroid hormone metabolism?	51598b08d24251bc0500009f
+1	Which mutations of phopspholamban have been found in patients with cardiomyopathy?	5523f1a62c8b63434a000002
+1	Is there an increased risk for cancer in Dyskeratosis Congenita?	54ede5df94afd61504000007
+1	Is CD84 genetically associated with arthritis?	52ef7170c8da898910000012
+1	Is cytisine superior to nicotine replacement therapy for smoking cessation?	54d77f0e3706e8952800001b
+1	Are proteasome inhibitors good candidates for treatment of leukemia and solid tumors?	517179718ed59a060a00000e
+1	What is the prognostic role of thyroid hormone in patients with heart failure?	531b2fc3b166e2b80600003c
+1	Does administration of triiodothyronine improve outcome following coronary artery bypass grafting?	532673c4d6d3ac6a34000009
+1	Is long QT syndrome a cause for sudden cardiac death in athletes?	53009f6d2059c6d71c00007e
+1	Has vitamin D has been shown to reduce incidence of falls in older people in clinical trials?	530cf57efe2466f70c000006
+1	Has depression been shown to be a predictor of frailty?	530cf57efe2466f70c000001
+1	Is it safe to take isotretinoin during pregnancy?	51640b4a298dcd4e51000050
+1	How does exercise affect thyroid hormone receptors expression in the heart?	5159cc88d24251bc050000a4
+1	What is the effect of ivabradine in heart failure with preserved ejection fraction?	532f0511d6d3ac6a34000024
+1	Is low T3 syndrome a prognostic marker in patients with renal insufficiency?	5325de7d9b2d7acc7e000029
+1	Can life style changes reduce oxidative stress	52f88a972059c6d71c000033
+1	Does helicobacter pylori infection increase risk for ischemic stroke?	551c2cd26b348bb82c00000d
+1	Is apixaban effective for treatment of acute venous thromboembolism?	52fc94572059c6d71c000070
+1	Are reduced-nicotine cigarettes effective for smoking cessation?	56bc8d65ac7ad1001900001a
+1	Is ospemifene effective for treatment of dyspareunia?	5335b373d6d3ac6a34000050
+1	Is pregabalin effective for treatment of patients with restless leg syndrome?	54cf4a0ef693c3b16b00000c
+1	is intense physical activity associated with longevity ?	5167be1a298dcd4e5100005c
+1	Is Vortioxetine effective for treatment of depression?	53359338d6d3ac6a3400004f
+1	Is alemtuzumab effective for remission induction in patients diagnosed with T-cell prolymphocytic leukemia?	530cefaaad0bf1360c000001
+1	What is the association between moon cycle and rupture risk  of intracranial aneurysms?	530cefaaad0bf1360c000006
+1	Is there an association between TERT promoter mutation and survival of glioblastoma patients?	55032bbfe9bde69634000032
+1	Is bapineuzumab effective for treatment of patients with Alzheimer's disease?	530cefaaad0bf1360c000004
+1	What is known about the association between the use of selective serotonin reuptake inhibitors during pregnancy and risk for autism in offspring?	530cefaaad0bf1360c000009
+1	Is lambrolizumab effective for treatment of patients with melanoma ?	530cefaaad0bf1360c000008
+1	Is nintedanib effective for Idiopathic Pulmonary Fibrosis?	56c048e2ef6e39474100001d
+1	Is pesticide exposure associated with polyneuropathy?	530cefaaad0bf1360c000010
+1	Is there an association between borna virus and brain tumor?	530f685c329f5fcf1e000002
+1	Is there an association between bruxism and reflux?	530cefaaad0bf1360c00000f
+1	Is paroxetine effective for treatment of premenstrual dysphoric disorder?	514a59c2d24251bc0500005d
+1	What is known about thalidomide therapy and survival of glioblastoma patients?	54f1e887c409818c32000004
+1	Can botulism poisoning of a pregnant woman harm her fetus?	554763f0f35db75526000002
+1	Is there evidence that tomato juice lowers cholesterol levels?	56c1d85cef6e394741000034
+1	How effective is the dentritic cells treatment on cancer?	5321bc029b2d7acc7e00000c
+1	Is progesterone effective for treatment of patients with traumatic brain injury based on clinical trial data?	54cf48acf693c3b16b00000b
+1	Is there a role for the cylindromatosis tumor suppressor (CYLD) in lung cancer?	5545e926d355485447000002
+1	What are the clinical trial outcomes of metformin use in polycystic ovary disease?	515dd9a0298dcd4e5100001e
+1	What is the association between Generalized anxiety disorder and mortality risk?	54f4914bd0d681a040000001
+1	Are people with blood group O protected against severe Malaria?	551ae6c564b14b4618000001
+1	Can vitamin B1 deficiency cause encephalopathy?	572211540fd6f91b68000016
+1	Is Kanzaki disease associated with deficiency in alpha-N-acetylgalactosaminidase?	56f7c44109dd18d46b000013
+1	Is vemurafenib effective for hairy-cell leukemia?	56c02bc3ef6e394741000018
+1	Is there an association between TERT promoter mutation and survival of glioma patients?	56c095b7ef6e394741000025
+1	Are BBS mutations involved in syndromic Hirschsprung disease?	55032179e9bde6963400002e
+1	Have hESC been tested for the treatment of age-related macular degeneration?	56f553aa09dd18d46b000005
+1	Could DNA (cytosine-5-)-methyltransferases serve as tumour markers?	5162e9df298dcd4e5100004b
+1	Can zinc finger nucleases be used to combat disease?	56f15c5a2ac5ed1459000012
+1	What is known about depression in acoustic neuroma patients?	56bb54d3ac7ad10019000006
+1	Are epigenetic modifications implicated in cardiovascular development and disease?	54f7291630767eb92e000002
+0	Is RET the major gene involved in Hirschsprung disease?	5503121de9bde69634000019
+0	Is Hirschsprung disease a mendelian or a multifactorial disorder?	55031181e9bde69634000014
+0	Does metformin interfere thyroxine absorption?	51406e6223fec90375000009
+0	Which acetylcholinesterase inhibitors are used for treatment of myasthenia gravis?	5149199dd24251bc05000040
+0	Name synonym of Acrokeratosis paraneoplastica.	56bc751eac7ad10019000013
+0	Which are the classes of anti-arrhythmic drugs according to Vaughan-Williams classification?	54d4e03a3706e89528000001
+0	Orteronel was developed for treatment of which cancer?	56c1f01def6e394741000045
+0	Which currently known mitochondrial diseases have been attributed to POLG mutations?	5718bbb37de986d80d00000b
+0	What is the mode of inheritance of Wilson's disease?	52bf1b0a03868f1b06000009
+0	What is the mode of inheritance of Facioscapulohumeral muscular dystrophy (FSHD)?	52bf19c503868f1b06000001
+0	What is the effect of TRH on myocardial contractility?	5160193d298dcd4e51000039
+0	List the endoscopic diagnoses that have been reported in children with autism	515deafd298dcd4e51000025
+0	What are the outcomes of Renal sympathetic denervation?	532624ae600967d132000005
+0	Which fusion protein is involved in the development of Ewing sarcoma?	552fac4fbc4f83e828000006
+0	List Hemolytic Uremic Syndrome Triad.	56be0da3ef6e394741000007
+0	Does physical activity influence gut hormones?	5158644cd24251bc0500008e
+0	Are there web based self management strategies for chronic pain ?	54fefff26ad7dcbc1200000b
+0	Is Weaver syndrome similar to Sotos?	571f34ac0fd6f91b68000005
+0	Mutation of which gene is implicated in the familial isolated pituitary adenoma?	551c23bc6b348bb82c00000b
+0	GV1001 vaccine targets which enzyme?	56c1f02cef6e39474100004c
+0	Mutation of which gene is implicated in the Brain-lung-thyroid syndrome?	56c1f03bef6e394741000053
+0	Which enzyme is targeted by the drug Imetelstat?	532498959b2d7acc7e000017
+0	Which interleukins are inhibited by Dupilumab?	56c1f005ef6e39474100003a
+0	Are transcribed ultraconserved regions involved in cancer?	553f78c7ab98a37113000008
+0	Do patients with Pendred syndrome present congenital deafness?	56d8b27651531f7e33000003
+0	List side effects of SGLT2 inhibitors?	571e1e11bb137a4b0c000004
+0	Are there any urine biomarkers for chronic kidney disease?	52fa73c62059c6d71c000058
+0	What is being measured with an accelerometer in back pain patients	533f9df0c45e133714000016
+0	List symptoms of the IFAP syndrome.	56c1f038ef6e394741000051
+0	Which gene is required for the efficient function of clopidogrel?	531a34d5b166e2b806000036
+0	Which antibiotics target peptidoglycan biosynthesis?	571529efcb4ef8864c000001
+0	List two common features of Tay syndrome.	53358cd2d6d3ac6a3400004e
+0	Which cell types are known to be driving Rheumatoid Arthritis?	52b2d405f828ad283c000009
+0	What is the mode of action of everolimus?	52f125332059c6d71c000007
+0	Have Quantitative Trait Loci affecting splicing (splicing QTLs) been linked to disease?	5158a5b8d24251bc05000097
+0	Which technique is used for detection of EWS/FLI1 fusion transcripts?	553653a5bc4f83e828000007
+0	Which pathological condition of the heart is known as hypertrophic cardiomyopathy (HCM)?	54dcb29dc0bb8dce23000004
+0	What is the genetic basis of Rubinstein-Taybi syndrome?	516e5f41298dcd4e5100007f
+0	Which drugs are utilized to treat amiodarone-induced thyroitoxicosis?	518cb4b5310faafe08000006
+0	How is spastic diplegia diagnosed?	56c3323a50c68dd416000009
+0	Which is the genetic defect causing Neurofibromatosis type 1?	52f223e02059c6d71c00000e
+0	How many clinical trials for off-label drugs in neonates are cited in the literature.	5150b807d24251bc05000072
+0	Are stress granules involved in the pathogenesis of Amyotrophic Lateral Sclerosis?	56c81fd15795f9a73e00000c
+0	Does TGF-beta play a role in cardiac regeneration after myocardial infarction?	52f5083d2059c6d71c00001e
+0	What enzyme is inhibied by Opicapone?	56c1d857ef6e394741000033
+0	Which pathological conditions are caused by mutations in the CYLD gene?	533c3af6c45e13371400000d
+0	Which is the genetic basis of Spinal Muscular Atrophy (SMA)?	56c5fd325795f9a73e000005
+0	Which are the common symptoms of Cushing's syndrome?	571f3b320fd6f91b68000007
+0	List genes that have been found mutated in CMT1A (Charcot-Marie-Tooth disease type 1 A).	54d65b6b3706e8952800000c
+0	Which viruses are best known to cause myocarditis?	517a8c918ed59a060a000043
+0	Which genes have been associated with Cerebral Cavernous Malformation?	571f2b5bbb137a4b0c000010
+0	Is DITPA a thyroid hormone analog utilized in experimental and clinical studies	52fb4b462059c6d71c00005f
+0	What is Tarlov Cyst?	56c1d848ef6e39474100002f
+0	What are 'vildagliptin', 'sitagliptin', 'saxagliptin', 'alogliptin', 'linagliptin', and 'dutogliptin'?	571e275dbb137a4b0c000005
+0	Which is the most important prognosis sub-classification in Chronic Lymphocytic Leukemia?	51739df58ed59a060a00001c
+0	Is MammaPrint cleared by the United States Food and Drug Administration? 	5168023b298dcd4e51000061
+0	What is hyperosmia	5509c52f1180f13250000004
+0	Which is the most known bacterium responsible for botulism (sausage-poisoning)?	55475dc2f35db75526000001
+0	What is the association of spermidine with a-synuclein neurotoxicity?	56c073fcef6e394741000020
+0	List symptoms of 4H leukodystrophy.	550320cbe9bde6963400002d
+0	Is amiodarone a class I anti-arrhythmic drug?	5509df4ac2af5d5b70000003
+0	Which is the prognostic meaning of delayed enhancement documented in patients hypertrophic cardiomyopathy?	5339ecf4d6d3ac6a3400005f
+0	Are there drugs for Tick-borne Encephalitis?	532083389b2d7acc7e000003
+0	Which are the drugs utilized for the burning mouth syndrome?	531d7430267d7dd053000008
+0	Is PTEN involved in follicular thyroid carcinoma?	55031650e9bde69634000026
+0	Which human genes are more commonly related to craniosynostosis?	513ce3c8bee46bd34c000008
+0	Which are the supplemental antioxidant in athletes?	52df8ce798d023950500000d
+0	Is glycyl-tRNA synthetase gene involved in the development of Charcot-Marie-Tooth disease?	5713c4a11174fb1755000013
+0	Does MicroRNA-21 (miR-21) contribute to cardiovascular disease?	54f4703764850a5854000008
+0	What is the enzymatic activity of the breast cancer associated gene BRCA1?	552421082c8b63434a000005
+0	Are there any specific antidotes for rivaroxaban?	532f08b8d6d3ac6a34000029
+0	Which amino acid residue appears mutated in most of the cases reported with  cadasil syndrome?	532366f09b2d7acc7e000015
+0	Which syndromes are associated with mutations in the EZH2 gene?	57090784cf1c325851000011
+0	Which disease is characterized by congenital absence of intrinsic ganglion cells of the gastrointestinal tract?	55000cc4e9bde69634000004
+0	What is the disease in which patients are sensitive to DNA crosslinking agents, presenting with a high frequency of chromosomal aberrations?	54ede28094afd61504000003
+0	How is oprozomib administered?	56ecfd572ac5ed1459000002
+0	Does thyroid hormone regulate calcium transient in the myocardium? 	515ac533d24251bc050000a9
+0	Which syndrome is associated with mutant DVL1?	5709ee36cf1c32585100001e
+0	What is the target of the drug Olaparib?	54d649843706e89528000009
+0	Are thyroid hormone receptor alpha1 mutations implicated in thyroid hormone resistance syndrome?	52f7c4bd2059c6d71c00002d
+0	What is the role of RhoA in bladder cancer?	53188c12b166e2b80600001a
+0	Inhibition of which transporter is the mechanism of action of drug Canagliflozin?	5335c7f2d6d3ac6a34000051
+0	which mutations of phospholamban gene have been found to cause hypertrophic cardiomyopathy?	531376c8e3eabad021000012
+0	Abnormalities in which chromosomes were linked to the Moyamoya disease?	5312280ce3eabad02100000a
+0	What is the suggested therapy for Mycobacterium avium infection?	5710ade4cf1c32585100002c
+0	What is the treatment of acute pericarditis?	517a8ce98ed59a060a000045
+0	What is the genetic basis of tuberous sclerosis?	56ed14d92ac5ed145900000a
+0	Which drugs are included in the FEC-75 regimen?	54df69af1388e8454a000005
+0	What is the clinical value of MammaPrint?	51485b9ad24251bc0500002b
+0	What is the number of protein coding genes in the human genome?	535d3c069a4572de6f000006
+0	What is the indication for prophylactic use of antibiotics in COPD?	515df063298dcd4e51000029
+0	What is the generic name of Gliolan?	54d73e223706e89528000010
+0	Which diseases is microRNA 132 (miR-132) implicated in?	5156be75d24251bc05000088
+0	What clinical use aptamers may have?	5318a6b2b166e2b80600001f
+0	What is the mechanism of action of Nalmefene?	52bf1df903868f1b06000013
+0	Synostosis of which cranial structures are characteristic to the Mercedes Benz syndrome?	54cf43abf693c3b16b000008
+0	Can valproic acid act as an activator of AMPK?	52f89ee42059c6d71c00004d
+0	Which signaling pathways have been associated with medulloblastoma formation and growth?	55391ce8bc4f83e828000018
+0	What is the role of invadopodia in EMT?	5319ac7fb166e2b806000033
+0	What are cancer driver genes?	534428feaeec6fbd0700000a
+0	What is the treatment of amiodarone-induced thyrotoxicosis?	518cb513310faafe08000007
+0	What are the symptoms of abacavir hypersensitivity?	51542dc3d24251bc0500007e
+0	Does burning mouth syndrome preferentially affect post-mepopausal women?	531d76a2267d7dd05300000a
+0	Which biomarker is widely used in the diagnosis of Ewing sarcoma?	55376663bc4f83e82800000a
+0	Which signalling pathway is involved in Tuberous Sclerosis?	52f11b922059c6d71c000004
+0	Which is the relation between sweating and anaerobic threshold?	536787467d100faa09000010
+0	Which are the major types of the motor speech disorder dysarthria?	5547d700f35db75526000007
+0	Describe the mechanism of action of the LINX system for treatment of gastroesophageal reflux disease.	54e22ee4ae9738404b000013
+0	Which enzyme deficiency can cause GM1 gangliosidoses?	571f609c0fd6f91b6800000c
+0	What is the characteristic feature of the Dyke-Davidoff-Masson syndrome.	55032e65e9bde69634000034
+0	Which gene is involved in the development of Barth syndrome?	5717d86029809bbe7a000003
+0	What is the treatment of subacute thyroiditis?	51406dd123fec90375000008
+0	What are the effects of BMAL1 deficiency?	56e45bc651531f7e33000018
+0	What medication were compared in the ROCKET AF Trial?	56bb616dac7ad10019000008
+0	What is the Barr body?	55152c0a46478f2f2c000004
+0	How many genes are in the gene signature screened by MammaPrint?	514a0f4ad24251bc05000053
+0	Is the tricarboxylic acid (TCA) cycle affected in inflammation?	56c4a217b04e159d0e000001
+0	What are the indications for treatment with anti-hepcidin?	535d59349a4572de6f000009
+0	List functions that are evaluated with the Full Outline of Unresponsiveness score?	56c1d84cef6e394741000031
+0	For the constructions of which organs has 3D printing been tested?	5713bf261174fb1755000011
+0	Mutation of which gene is associated with Achondroplasia?	52b2e498f828ad283c000010
+0	Which type of lung cancer is the most strongly associated with Lambert-Eaton syndrome?	5147c088d24251bc05000026
+0	What distinguishes lantibiotics from antibiotics?	5719f5c67de986d80d00000d
+0	List three major features of the CCFDN syndrome.	5503263fe9bde69634000030
+0	Is TREM2 associated with Alzheimer's disease in humans?	51588c34d24251bc05000095
+0	Which gene mutations are responsible for isolated Non-compaction cardiomyopathy?	52ea605098d0239505000028
+0	Have mutations in the Polycomb group been found in human diseases?	5176c6d08ed59a060a000032
+0	Is microRNA(miRNA) 29 involved in post-ischemic cardiac remodeling?	513f4025bee46bd34c000011
+0	What is the incidence of Edwards syndrom in the european population?	52f350042059c6d71c000010
+0	What is the treatment of acute myocarditis?	517a8cc68ed59a060a000044
+0	List causative genes for autosomal recessive forms of monogenic Parkinson's disease	5318367cb166e2b806000012
+0	How does ranolazine affect calcium handling in the heart	517138d98ed59a060a000003
+0	Which is the primary distinction between the Reverse Warburg effect and the conventional Warburg effect?	554403395beec11c10000001
+0	What is the role of per genes in circadian rhythm control?	53175e4fb166e2b806000008
+0	Can sorafenib activate AMPK?	56c8318f5795f9a73e00000f
+0	What tyrosine kinase, involved in a Philadelphia- chromosome positive chronic myelogenous leukemia, is the target of Imatinib (Gleevec)?	5324a8ac9b2d7acc7e000018
+0	When was empagliflozin FDA approved?	571e172bbb137a4b0c000002
+0	List symptoms of congenital toxoplasmosis triad.	56be06cdef6e394741000004
+0	How many genes are imprinted in the human genome?	57090c33cf1c325851000013
+0	Is exome sequencing efficient for the detection of germline mutations?	5318b452b166e2b806000021
+0	Which mutations of alpha-myosin heavy chain gene are implicated in hypertrophic cardiomyopathy?	530cf4e0c8a0b4a00c000004
+0	Which are the cardiac manifestations of Marfan syndrome?	530cf4e0c8a0b4a00c000005
+0	How is connected "isolated Non-compaction cardiomyopathy" with dilated cardiomyopathy?	530cf4e0c8a0b4a00c000002
+0	What is the role of AMPK in diabetic cardiomyopathy?	51753a948ed59a060a000029
+0	Which is the most common cause of sudden cardiac death in young athletes?	530cf4e0c8a0b4a00c000006
+0	What is the rate of survival after commotio cordis?	530cf4e0c8a0b4a00c000007
+0	Which gene is involved in Giant Axonal Neuropathy?	572096c90fd6f91b6800000e
+0	Are there studies representing the involvement of Notch mutations in neurodegenerative diseases such as Down syndrome, Pick's and Prion's disease, and cadasil syndrome?	532bf822d6d3ac6a34000016
+0	What are the names of anti-CD52 monoclonal antibody that is used for treatment of multiple sclerosis patients?	530cefaaad0bf1360c000003
+0	Which brain structures have been investigated as potential targets for deep brain stimulation of patients suffering from major depression?	530cefaaad0bf1360c000002
+0	Which deiodinase polymorphisms are implicated in arterial hypertension?	52ecf2dd98d023950500002e
+0	At which kind of individuals is pharmacological treatment of subclinical hypothyroidism effective in reducing cardiovascular events?	52efbfccc8da898910000018
+0	Which transcription factors are involved in E-cadherin repression during EMT?	5319abe4b166e2b80600002e
+0	Is desmin an intermediate filament protein involved in Dilated Cardiomyopathy (DCM)?	55031963e9bde6963400002a
+0	List human diseases involving genomic imprinting.	54ff30dc6ad7dcbc1200000f
+0	Which deficiency is the cause of restless leg syndrome?	530cefaaad0bf1360c000012
+0	What memory problems are reported in the " Gulf war syndrome"?	530cefaaad0bf1360c000011
+0	Is cadasil syndrome a hereditary disease?	532361fd9b2d7acc7e000013
+0	Which neuroendocrine tumors are associated with specific tumor syndromes?	55031628e9bde69634000024
+0	How many periods of regulatory innovation led to the evolution of vertebrates?	56d1da3b67f0cb3d66000006
+0	What is the role of SERCA in diabetic cardiomyopathy?	51713cb58ed59a060a000006
+0	List medication interfering with purine metabolism that are used for treatment of T-cell prolymphocytic leukemia?	530cefaaad0bf1360c00000c
+0	What is known about the value of mindfulness interventions in prostate cancer patients?	54f09a5894afd6150400001c
+0	What is known about prostate cancer screening in the UK ?	530cefaaad0bf1360c00000e
+0	Which hormone abnormalities are common in Williams syndrome ?	530cefaaad0bf1360c00000d
+0	The secreted frizzled-related protein 3 (sFPR3) is altered in human cancers.Are its level found to increase or to decrease?	5159502dd24251bc0500009b
+0	Is endostatin a proangiogenic factor?	53124e84e3eabad02100000c
+0	List Genes associated with adolescent idiopathic scoliosis	54d670163706e8952800000f
+0	List the off-label use of SSRIs	5324cf139b2d7acc7e00001f
+0	What molecule is targeted by brodalumab?	56bc9268ac7ad1001900001b
+0	Which is the gene mutated in type 1 neurofibromatosis?	5343fc1aaeec6fbd07000003
+0	List receptors of the drug Cilengitide	54cf705ff693c3b16b000014
+0	Can protein coding exons originate from ALU sequences?	51763a278ed59a060a000030
+0	How could U1 small nuclear RNA be used in therapeutics?	5357a514f1005d6b58000003
+0	What is the influence of patent expiry on  ACE inhibitor prescribing.	5150b5c4d24251bc05000070
+0	Which genes are more frequently affected by somatic mutations in Chronic Lymphocytic Leukemia	5171a1498ed59a060a000012
+0	What is the mode of inheritance of nemaline myopathy?	516be1d6298dcd4e5100006a
+0	Which syndrome is NHE6 associated with?	56d860ad51531f7e33000002
+0	Which virus is Cidofovir (Vistide) indicated for?	52bf1cad03868f1b0600000a
+0	List chromosomes that have been linked to Arnold Chiari syndrome in the literature.	54d77bdf3706e89528000019
+0	Which translocation is the hallmark of Ewing sarcoma?	552faababc4f83e828000005
+0	Is invasion and metastasis one of the hallmarks of cancer?	5316d4fcb166e2b806000005
+0	Is it possible to detect survivin protein expression in normal human adult tissues?	51680a49298dcd4e51000062
+0	List symptoms of Meigs' Syndrome.	56be0a18ef6e394741000006
+0	Which medical diagnostic tests are used to test kidney function?	5311b99ae3eabad021000004
+0	Against which protein is the antibody used for immonostaining of Lewy bodies raised?	53189656b166e2b80600001c
+0	Which are the main causes of fetal echogenic bowel?	5131fa145274a5fb07000009
+0	How does trimetazidine affect intracellular kinase signaling in the heart?	5171393e8ed59a060a000005
+0	What is the percentage of responders to tetrabenazine treatment for dystonia in children?	515ddda6298dcd4e5100001f
+0	Which disease can be treated with Delamanid?	56bc7d71ac7ad10019000018
+0	What was the aim of the COSS (Carotid Occlusion Surgery Study) clinical trial?	5314c045dae131f847000007
+0	What is the indication of Daonil (Glibenclamide)?	52b2e1d8f828ad283c00000c
+0	Which molecule is targeted by a monoclonal antibody Mepolizumab?	54d907c84b1fd0d33c000008
+0	Which is the major symptom of the Doose syndrome?	550342a8f8aee20f27000002
+0	Have mutations in the GARS gene been identified to cause Charcot-Marie-Tooth Disease Type 2D (CMT2D)?	52b2ecd34003448f55000003
+0	Which treatment leads to an increase in neutrophil counts in severe congenital neutropenia?	550313aae9bde6963400001f
+0	Which genes are affected in ROMANO-WARD syndrome?	52eea509c8da89891000000d
+0	Does melanoma  occur in people of African origin ?	515df6f2298dcd4e5100002d
+0	What is the effect of resveratrol on mTOR activity?	551177626a8cde6b72000005
+0	Which eye condition is managed by the athens protocol?	56bdc79bef6e394741000001
+0	What is the mechanism of action of solanezumab?	52fc94ae2059c6d71c000073
+0	What are the major clinical Villefranche criteria for classic Ehlers-Danlos syndrome?	54e1252fae9738404b000003
+0	What is the treatment of neuropathic pain in children?	515da6e2298dcd4e51000010
+0	Which phenomenon is known as the "calcium paradox" in the isolated perfused heart?	54fc3cf410565e080c000001
+0	What is Prudent Diet?	533175add6d3ac6a3400003c
+0	What is the role of necroptosis in cancer therapy?	53175f0bb166e2b80600000c
+0	Can venlafaxine block NET and SERT?	56cf32e23975bb303a000006
+0	Is Rheumatoid Arthritis more common in men or women?	5118dd1305c10fae75000001
+0	Which deiodinases are present in skeletal  muscle?	517a8bef8ed59a060a000041
+0	Which genes are involved in patient response to warfarin?	5148885ad24251bc05000032
+0	List sodium glucose co-transporter-2 (SGLT2) inhibitors that have been FDA approved for type 2 diabetes mellitus treatment.	571e189dbb137a4b0c000003
+0	What is the gene mutated in the Gaucher disease?	532f55fed6d3ac6a34000036
+0	Why does the prodrug amifostine (ethyol) create hypoxia?	533eba45c45e133714000014
+0	What is considered a reliable technique for the definitive cytogenetic diagnosis of Fanconi anemia homozygosity?	54eded8c94afd6150400000c
+0	For the treatment of which conditions can atypical neuroleptic drugs be used?	52bf1f4503868f1b06000016
+0	Which are the characteristics of  Andersen syndrome?	52eeddfcc8da898910000010
+0	How are induced pluripotent stem cells used in the study and treatment of cardiovascular diseases?	54fc48bb6ea36a810c000002
+0	Which disease is included as an additional feature in the Goldberg-Shprintzen syndrome?	5519110f622b19434500000c
+0	Which protein is causing Netherton syndrome?	54ff45966ad7dcbc12000010
+0	Mutations in which gene and which protein are associated with Netherton syndrome?	56f56a8609dd18d46b00000b
+0	Which disease of the central nervous system is characterized by the presence of Lewy bodies?	550c3754a103b78016000007
+0	Which deiodinase is known to be present in liver?	517a8b768ed59a060a00003f
+0	Is Mycobacterium avium less susceptible to antibiotics than Mycobacterium tuberculosis?	5710a650cf1c32585100002b
+0	What molecule is targeted by suvorexant?	56c1f003ef6e394741000039
+0	For which type of diabetes can empagliflozin be used?	571e14fbbb137a4b0c000001
+0	How early during pregnancy does non-invasive cffDNA testing allow sex determination of the fetus?	57136a7e1174fb1755000006
+0	Does cortical spreading depression appear in ischemic penumbra following ischemic stroke?	514b335dd24251bc05000061
+0	Is Alpers disease inherited in an autosomal recessive mode?	5718a69e7de986d80d00000a
+0	What is the main characteristic of Amyotrophic Lateral Sclerosis?	56b469448525abca1e000007
+0	Which JAK (Janus kinase) inhibitor is approved for treatment of rheumatoid arthritis?	53357193d6d3ac6a34000047
+0	Which is the mechanism used for synthesis of a highly functional N-truncated dystrophin isoform that attenuates dystrophinopathy?	57167625cb4ef8864c000006
+0	How is OCT3 associated with serotonin?	571e2beabb137a4b0c000006
+0	What constitutes an increased risk for individuals with Fanconi anemia?	54ede5a494afd61504000005
+0	what is the role of IGF-1 in cardiac regeneration after myocardial infarction?	52f385052059c6d71c000011
+0	What is known about prostate cancer screening in the UK	52f88a062059c6d71c000032
+0	Which gene is most commonly associated with severe congenital and cyclic neutropenia?	5503133ae9bde6963400001d
+0	List two chemotherapeutic agents that are used for treatment of Subependymal Giant Cell Astrocytoma	54e061ee1388e8454a00000c
+0	Is Calcium homeostasis important in cardiac physiology and pathophysiology?	54c26e29f693c3b16b000003
+0	List available databases containing information about conserved noncoding elements.	553d061cf321868558000013
+0	What is the function of the mammalian gene Irg1?	513832a75274a5fb07000012
+0	What disease in Loxapine prominently used for?	52b2e409f828ad283c00000e
+0	What is the systemic nickel allergy syndrome?	5325b0419b2d7acc7e000026
+0	Which antibodies cause Riedel thyroiditis?	56c1f040ef6e394741000055
+0	What are the effects of ILK ablation?	5179602c8ed59a060a00003d
+0	Does d-tubocurarine (d-TC) induces irreversible inhibition of nicotinic acetylcholine receptor (nAChR) at the neuromuscular junction?	554614bcd355485447000004
+0	Which receptors are bound by Tasimelteon?	56c1f043ef6e394741000057
+0	Is zyxin a focal adhesion protein?	54f4b319d0d681a040000005
